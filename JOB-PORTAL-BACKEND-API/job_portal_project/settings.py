@@ -172,5 +172,5 @@ MEDIA_ROOT = BASE_DIR / 'media'
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'http://127.0.0.1:5173',
-    'https://job-portal-backend-q9m0.onrender.com/',
+    'https://job-portal-backend-q9m0.onrender.com',
 ]
