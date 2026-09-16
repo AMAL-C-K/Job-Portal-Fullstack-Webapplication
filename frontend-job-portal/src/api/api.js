@@ -1,4 +1,4 @@
-const BASE_URL = "http://127.0.0.1:8000/api";
+const BASE_URL ="https://job-portal-backend-q9m0.onrender.com/api";
 
 export const apiFetch = async (endpoint, options = {}) => {
   let accessToken = localStorage.getItem("access");
